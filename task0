@@ -1,3 +1,5 @@
 xs= input("ur name")
 y = int(input("ur age"))
 print(xs,"can get ur license in",(18-y))
+
+#hello I wanna see you ok
